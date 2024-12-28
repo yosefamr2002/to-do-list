@@ -9,5 +9,5 @@ import { Component } from '@angular/core';
 })
 export class TodoComponent {
 
-  imagelink: string
+  imagelink: string = "https://cdn-icons-png.flaticon.com/512/4697/4697260.png";
 }
